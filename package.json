@@ -15,7 +15,7 @@
     "@react-navigation/native": "^5.1.4",
     "axios": "^0.19.2",
     "expo-ads-facebook": "^8.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "16.11.0",
     "react-native": "0.62.1",
     "react-native-admob": "^2.0.0-beta.6",
